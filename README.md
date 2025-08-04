@@ -41,4 +41,4 @@ How can we better assess the financial health of companies?
 What’s the most reliable way to predict bankruptcy using data?
 By answering these questions, we aim to provide tools and insights that can help stakeholders make smarter, more informed decisions.
 
-The purpose of this research notebook is to create a machine learning model using “Company_House_Info” data that helps to predict the company’s success or bankruptcy based on the following attributes:
+The purpose of this research notebook is to create a machine learning model using “Company_House_Info” data that helps to predict the company’s success or bankruptcy.
