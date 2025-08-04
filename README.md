@@ -1,19 +1,18 @@
 
-Introduction to Company Bankruptcy Prediction
 Predicting bankruptcy is a critical task in the financial world. Companies often face numerous challenges, and understanding which factors signal financial distress can help stakeholders act early and make better decisions.
 
 This project uses financial data and machine learning to build a model that can predict the likelihood of a company going bankrupt. By uncovering the key financial metrics that matter, this analysis aims to provide practical insights for reducing risk and improving decision-making.
 
-What We’re Trying to Achieve
-Here’s what this analysis sets out to do:
+What We’re Trying to Achieve: Here’s what this analysis sets out to do:
 
 Get to Know the Data: Take a close look at the dataset to understand its structure, spot any issues, and identify patterns or relationships.
 Prepare the Data: Clean and process the data to make it ready for modeling. This includes handling missing values, balancing classes, and standardizing feature scales.
 Build and Test Models: Train several machine learning models to see which one predicts bankruptcy most accurately.
 Understand the Results: Analyze which financial metrics are the most important predictors and evaluate how well the models perform.
 Share Actionable Insights: Provide clear recommendations based on the findings to help users of the model make informed decisions.
-How We’ll Do It
-This project is broken into six main steps:
+
+
+How We’ll Do It: This project is broken into six main steps:
 
 Explore the Data:
 Load and inspect the dataset to see what we’re working with.
@@ -32,8 +31,10 @@ Analyze Key Features:
 Identify which financial indicators are driving the predictions and see how they connect to the outcomes.
 Summarize and Recommend:
 Highlight the key takeaways and recommend the best model for practical use.
-Why It’s Important
-This analysis helps us answer questions like:
+
+
+
+Why It’s Important: This analysis helps us answer questions like:
 
 What are the warning signs of financial trouble for a company?
 How can we better assess the financial health of companies?
